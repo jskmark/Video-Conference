@@ -25,7 +25,7 @@ Step-3:	If we want to install nodejs packages,we need to use the following comma
 		Ex: $ sudo npm install –g socket.io
 
 Booting the server:
-1. After the installation of the nodejs just open the terminal and go to the project folder move to Live counselling folder via cd command.
+1. After the installation of the nodejs just open the terminal and go to the project folder and run the server.js file to boot the server.
 
 2. Type the following command.
 
