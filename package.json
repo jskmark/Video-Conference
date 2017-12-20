@@ -19,7 +19,7 @@
     "npm": "*"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "init.sh"
   },
   "repository": {
     "type": "git",
